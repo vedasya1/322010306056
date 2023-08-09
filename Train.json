@@ -2,7 +2,7 @@
   "trains": [
     {
       "trainName": "Chennai Exp",
-      "trainNumber": "2344",
+      "trainNumber": "6056",
       "departureTime": {
         "hours": 21,
         "minutes": 35,
@@ -20,7 +20,7 @@
     },
     {
       "trainName": "Hyderabad Exp",
-      "trainNumber": "2341",
+      "trainNumber": "6056",
       "departureTime": {
         "hours": 23,
         "minutes": 55,
